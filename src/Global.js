@@ -1,5 +1,5 @@
 var Global = {
-    urlHospitales: "https://apicrudhospital.azurewebsites.net/"
+    urlHospitales: "https://apihospitales2022.azurewebsites.net/"
 }
 
 export default Global;
